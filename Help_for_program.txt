@@ -1,0 +1,251 @@
+Hello and Thank you for Downloading my Program.
+
+
+
+This program is designed to generate random Pokemon with random movesets following the options given.
+
+
+
+I shall go through each of the tabs one by one and explain what each of the options do.
+
+
+
+For extra help watch the videos.
+
+
+
+It should only take up to 10 seconds to generate (Should be a lot less),
+
+If it is not there is likely an error, which you should report.
+
+
+
+
+
+Tab 1 - Home/Run Program: 
+
+
+
+When you click the button it will generate a team using the given options.
+It will set it to your clipboard like you have clicked Ctrl+C, or clicked copy.
+To paste click Ctrl+V or right-click then Paste. 
+
+The text box will tell you when the team has been sent to your clipboard.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tab 2 - Pokemon Options:
+
+
+
+This tab allows you to set options for which Pokemon you would like to use.
+
+
+The first option uses smogon tiers, allowing you to pick a base tier,
+then if you would like only that tier, tiers higher than it and it,
+or tiers lower than it and it.
+
+
+Examples:
+
+
+Uber and Lower and LC and higher will include all Pokemon.
+Uber and Higher will only include Uber Pokemon.
+OU and Lower will include all Pokemon not in Ubers
+NU and Higher will include the tiers;
+NU, NUBL, RU, RUBL, UU, UUBL, OU and Ubers.
+
+
+
+The second option allows you to do a mono - Something:
+
+You can do a;
+Mono Type
+Mono Generation
+Mono Egg Group (The 3 water groups have been combined for simplicity)
+Mono Colour
+and Mono Legendaries
+
+
+The 2 options combine, so for example if you do, Mono Gen 1 and Ubers and Higher,
+Then your team will be full of Mewtwo and its two mega evolutions.
+
+If you choose 2 groups and there are no valid Pokemon (Such as Ditto Egg Group,
+And Uber and Higher) then your team will be picked from all Pokemon, and an error,
+will be shown in the Text Box.
+
+
+
+Tab 3 - Item Options:
+
+
+
+This tab lets you choose what items your Pokemon can be given.
+
+
+
+The first option can let you stop your Pokemon be given smogon's list of useless,
+items. This does not mean bad items, but items that don't do anything competitively,
+such as fossils, evolution items, and poke balls.
+
+
+
+
+
+The second option lets you choose what tiers of smogon items you would like to use.
+Tier 1 is smogon's "Popular Items"
+Tier 2 is smogon's "Items"
+Tier 3 is smogon's "Usually useless items"
+
+
+
+PLEASE NOTE THAT CHANGING THIS WILL NOT STOP USELESS ITEMS OR POKEMON SPECIFIC
+ITEMS FROM BEING ON YOUR POKEMON, YOU MUST DISABLE THEM SEPARATELY!
+
+
+
+
+
+The Third option lets you disable Pokemon specific item.
+This includes items such as Silvally's memories, Red Orb, Mega stones and soul dew.
+
+
+The final Option lets you Force an item onto a Pokemon.
+It check if what is in the FIRST box is valid and will give the item if it is.
+Only write in the FIRST box.
+Leave the default text if you don't want any forced move.
+It must be a valid move, and spelt correctly.
+You can select whether to give it to one Pokemon or all in the dropdown menu.
+If the move is not found it will give an error in the SECOND box.
+
+
+
+
+
+
+
+
+
+
+
+Tab 4 - Ability Options:
+
+
+
+The first Option lets you Force an ability onto a Pokemon.
+It check if what is in the FIRST box is valid and will give the ability if it is.
+Only write in the FIRST box.
+Leave the default text if you don't want any forced ability.
+It must be a valid ability, and spelt correctly.
+You can select whether to give it to one Pokemon or all in the dropdown menu.
+If the ability is not found it will give an error in the SECOND box.
+
+
+
+
+The second option lets you choose what tiers of smogon abilities you would like to use.
+This list can only be found when making a balanced hackmon team,
+but it includes abilities illegal there.
+
+Tier 1 is smogon's "Abilities"
+Tier 2 is smogon's "Situational Abilities"
+Tier 3 is smogon's "Unviable Abilities"
+
+
+Tab 5 - Move Options:
+
+
+The first option lets you choose which Z-Moves you would like to include,
+in a normal moveset - Does not need Z-Crystal
+
+All means it includes Signature and Not Signature ones
+Only Signature means Only Signature Ones - Only the one that have a set Power,
+Not Signature have a set Power of 1
+None means no Z-Moves can be in a moveset
+
+
+The second Option lets you Force a move onto a Pokemon.
+It check if what is in the FIRST box is valid and will give the move if it is.
+Only write in the FIRST box.
+Leave the default text if you don't want any forced move.
+It must be a valid move, and spelt correctly.
+You can select whether to give it to one Pokemon or all in the dropdown menu.
+If the ability is not found it will give an error in the SECOND box.
+
+
+This can be used to force a Pokemon to have hazard removal
+
+
+
+
+The third option lets you choose what tiers of smogon moves you would like to use.
+
+Tier 1 is smogon's "Moves"
+Tier 2 is smogon's "Usually useless moves"
+
+
+The fourth option lets you choose what kind of moves you would like to use
+
+
+All will include all moves,
+Only Attacking (No Z-Moves) will only use attacking moves and no status moves,
+Only Status (No Z-Moves) will only use status moves and no attacking moves.
+
+
+The 2nd and 3rd option will not let any Z-moves generate.
+
+
+
+
+
+The final option will check if the Pokemon is holding a typed Z-crystal (Not signature),
+and force it to be useful by setting a move to be the same type.
+It could be attacking or status.
+It will not look at Move Tier options or types of move (Status or Attacking option).
+This can be used to guarantee a Z-Move can be used if you give a Z-Crystal to a pokemon,
+In the forced item option (See above).
+
+
+
+
+
+
+
+Tab 6 - Other Options;
+
+
+This is for options that do not fit anywhere else
+
+
+The first option lets you choose whether the generator should randomize shinies,
+if no it will look at the second option to see if it should be shiny or not.
+
+
+
+The final option lets you select level range (Inclusive) for it to randomize,
+if you want it to use only a select level then set both to the same number.
+If there is an error happens then it will use level 1 to 100.
+
+An error can be caused by these conditions;
+Using a level less than 1,
+Using a level higher than 100,
+The first number being higher than the second,
+Not using whole numbers,
+Using letters and
+Not filling in both boxes and possibly some more.
+
+
+
+
