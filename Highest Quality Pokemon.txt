@@ -1,0 +1,21 @@
+No
+Yes
+No
+Only Signature
+Only 1
+No
+Only 1
+Only 1
+Uber
+Higher
+All
+Yes
+None
+Any Invalid move will count as No
+Any Invalid ability will count as No
+Any Invalid item will count as No
+100
+100
+One Pokemon
+One Pokemon
+One Pokemon

@@ -1,0 +1,22 @@
+The website: https://www.python.org/
+Wikipedia page: https://en.wikipedia.org/wiki/Python_
+
+Websites that show you how to download it:
+https://www.ics.uci.edu/~pattis/common/handouts/pythoneclipsejava/python.html
+https://www.google.co.uk/search?ei=ItJYW7eXN-qVgAbJ6LHYDw&q=how+to+install+python&oq=how+to+install+python&gs_l=psy-ab.3..0i67k1j0j0i67k1j0l7.8316.9642.0.9884.9.6.0.0.0.0.100.412.5j1.6.0....0...1c.1.64.psy-ab..5.4.276....0.d-gyjdFfsI0
+https://www.howtogeek.com/197947/how-to-install-python-on-windows/
+https://realpython.com/installing-python/
+https://matthewhorne.me/how-to-install-python-and-pip-on-windows-10/
+
+Videos that show you how to download it:
+https://www.youtube.com/results?search_query=how+to+install+python+on+windows+10
+https://www.youtube.com/watch?v=3lGhtIqT0Tk
+https://www.youtube.com/watch?v=dX2-V2BocqQ
+https://www.youtube.com/watch?v=km7KOVS-hBY
+https://www.youtube.com/watch?v=BcPIXq2hPtc
+
+Some Playlists for python that should prove it is real:
+https://www.youtube.com/results?sp=EgIQA0IECAESAA%253D%253D&search_query=python+basics
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+https://www.youtube.com/watch?v=N4mEzFDjqtA

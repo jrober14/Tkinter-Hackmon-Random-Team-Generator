@@ -1,0 +1,21 @@
+No
+No
+Yes
+All
+Only 3
+Yes
+Only 3
+Only 2
+LC
+Lower
+All
+No
+None
+Any Invalid move will count as No
+Any Invalid ability will count as No
+Any Invalid item will count as No
+1
+1
+One Pokemon
+One Pokemon
+One Pokemon

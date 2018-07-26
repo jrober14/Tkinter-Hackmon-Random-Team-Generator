@@ -1,0 +1,21 @@
+Yes
+No
+Yes
+All
+All Tiers
+Yes
+All Tiers
+All Tiers
+Uber
+Lower
+All
+Yes
+None
+Any Invalid move will count as No
+Any Invalid ability will count as No
+firium z
+1
+100
+One Pokemon
+One Pokemon
+One Pokemon

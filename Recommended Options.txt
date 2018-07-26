@@ -1,0 +1,21 @@
+Yes
+No
+No
+Only Signature
+All Tiers
+No
+All Tiers
+All Tiers
+Uber
+Lower
+All
+Yes
+None
+Any Invalid move will count as No
+Any Invalid ability will count as No
+Any Invalid item will count as No
+80
+100
+One Pokemon
+One Pokemon
+One Pokemon
