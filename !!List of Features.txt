@@ -1,0 +1,17 @@
+List of Features:
+
+Choose pokemon by smogon tier,
+Doing a monotype, mono legendary, mono egg group and mono colour,
+Using tiers of items,
+Not using pokemon specific items,
+Forcing an item onto 1 or all pokemon,
+Forcing an ability onto 1 or all pokemon,
+Using tiers of abilitys,
+Using Z-moves on movesets or not,
+Forcing a move onto 1 or all pokemon,
+Using tiers of moves,
+Using only attacking or only status moves,
+Forcing Z-Moves to be useful,
+Randomizing Shinies and setting levels to randomize.
+
+You can also save these options to load later.
